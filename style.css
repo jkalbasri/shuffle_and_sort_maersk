@@ -133,6 +133,7 @@ ul li {
   text-transform: capitalize;
   font-size: 1rem;
   margin-left: 15rem;
+  font-style: italic;
 }
 footer {
   font-size: 0.8em;
