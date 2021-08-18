@@ -14,6 +14,7 @@ header {
   margin: 0;
   padding: 0em;
   border-bottom: 0;
+  background-color: #fff;
 }
 .line {
   background: #bfbfbf;
@@ -127,6 +128,12 @@ ul li {
   text-shadow: 1px 1px 1px #2b8ead;
   font-weight: 100;
 }
+.author {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 1rem;
+  margin-left: 15rem;
+}
 footer {
   font-size: 0.8em;
   text-align: center;
@@ -200,5 +207,9 @@ footer {
   .li-6,
   .li-7 {
     border-left: 0.3em solid #bfbfbf;
+  }
+  .author {
+    font-size: 1rem;
+    margin-left: 0;
   }
 }
